@@ -283,7 +283,7 @@ passes, it will not execute.
 Below are the steps to follow when submitting a proposal to the Whitelist track.
 
 - [Submit a preimage](#submitting-a-preimage) with the call to _dispatch_ the proposal (`call`) you
-  want to submit -- `whitelist.dispatchWhitelistedCallWhithPreimage(call)` -- and obtain the
+  want to submit -- `whitelist.dispatchWhitelistedCallWithPreimage(call)` -- and obtain the
   preimage hash. This is the preimage for the _public referendum_ on the Whitelisted Caller track.
 
 ![preimage-whitelist](../assets/governance/opengov-submit-preimage-whitelist.png)
